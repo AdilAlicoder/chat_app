@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.social.joanlouji.chatblo"
+        applicationId "com.adil.firebase.chat"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1
